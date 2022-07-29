@@ -29,7 +29,6 @@ clyent
 colorama
 comtypes
 conda
-conda-build
 conda-package-handling
 conda-verify
 contextlib2
