@@ -29,8 +29,6 @@ clyent
 colorama
 comtypes
 conda
-conda-package-handling
-conda-verify
 contextlib2
 cryptography
 cycler
